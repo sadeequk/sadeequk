@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeequk&label=Profile%20views&color=0e75b6&style=flat" alt="sadeequk" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and Wordpress**
+- 🌱 I’m currently learning **Node Js and MongooDB**
 
 - 💬 Ask me about **Html,Css ,Bootstrap, javascript, Node js**
 
