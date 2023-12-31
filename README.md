@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadeeq Ullah</h1>
 <h3 align="center">A passionate Web developer from Swat, Pakistan.</h3>
-<img align="right" alt="codding" width="400"  src="https://i.gifer.com/A8gJ.gif">
+<img align="right" alt="codding" width="400"  src="[https://i.gifer.com/A8gJ.gif](https://i.gifer.com/A8gJ.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeequk&label=Profile%20views&color=0e75b6&style=flat" alt="sadeequk" /> </p>
 
