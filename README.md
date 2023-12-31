@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadeeq Ullah</h1>
 <h3 align="center">A passionate Web developer from Swat, Pakistan.</h3>
-<img align="right" alt="codding"   src="   [[https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
+<img align="right" alt="codding"   src="[   [[https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://spaces-wp.imgix.net/2016/06/coding-in-the-classroom.png?auto=compress,format&q=50)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeequk&label=Profile%20views&color=0e75b6&style=flat" alt="sadeequk" /> </p>
 
