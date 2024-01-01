@@ -1,8 +1,10 @@
+
+
+![logo]()
+
 <h1 align="center">Hi 👋, I'm Sadeeq Ullah</h1>
 <h3 align="center">A passionate Web developer from Swat, Pakistan.</h3>
 <img align="right" width ="380" alt="codding"   src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeequk&label=Profile%20views&color=0e75b6&style=flat" alt="sadeequk" /> </p>
 
 - 🌱 I’m currently learning **Node Js and MongooDB**
 
