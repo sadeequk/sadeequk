@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/sadeequk/sadeequk/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20Branding%20Youtube%20Banner.png)
+![logo](https://github.com/sadeequk/sadeequk/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20Branding%20Youtube%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Sadeeq Ullah</h1>
 <h3 align="center">A passionate Web developer from Swat, Pakistan.</h3>
